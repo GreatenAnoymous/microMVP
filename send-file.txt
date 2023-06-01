@@ -1,0 +1,18 @@
+x-min
+x-max
+y-min
+y-max
+edge-length
+num-of-polygon
+num-vertices
+x y
+x y
+x y
+num-vertices
+x y
+x y
+x y
+num-robots
+x y 
+x y 
+x y
